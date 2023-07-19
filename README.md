@@ -13,10 +13,6 @@ Histogram plots:
 
 
 
-## XG-Boost Explanation preview:
-![16b91db3-d461-485c-8105-2bb9c64e0952](https://github.com/Sameer-13/Cervical_Cancer_Risk_Prediction/assets/106761486/0cb899a9-839c-4f9c-bf37-770c9fde79f4)
-
-
 
 ## Confusion matrix of the model results:
 ![e93c83b9-3215-4290-a908-b2f36eca60d6](https://github.com/Sameer-13/Cervical_Cancer_Risk_Prediction/assets/106761486/988e8356-e898-4157-9391-db5de97a5099)
